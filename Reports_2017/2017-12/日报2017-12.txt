@@ -53,3 +53,12 @@
 4.浏览器窗口缩小后，大屏展示外框固定无法自适应调整
 5.实现跨域调用
 6.标题加上手型
+
+2017-12-15
+1.刷新频率修改
+2.最大负荷波动标题设置
+3. 去除There is a chart instance already initialized on the dom.警告
+4.修改一像素白边问题
+5.dashboard间隙改小点
+
+下午参加了python培训
