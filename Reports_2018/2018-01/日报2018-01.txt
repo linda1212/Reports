@@ -21,3 +21,6 @@
 2018-01-05
 参加Docker分享会
 调研饿了么ElementUI，拟将此技术应用到新项目中
+
+2018-01-08
+VUE(饿了么组件)研究,VUE开发环境，NODE,NPM WEBPACK学习
